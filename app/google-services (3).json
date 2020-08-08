@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "508062200200",
+    "firebase_url": "https://later-b6f50.firebaseio.com",
+    "project_id": "later-b6f50",
+    "storage_bucket": "later-b6f50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508062200200:android:87c6aae52c517753fb8a3d",
+        "android_client_info": {
+          "package_name": "com.durga.later"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508062200200-b62dv32025oa04gc0pmjh505jov3onpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk7eryB-WAxmhVgAY0_avXZQRnAGub6PM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508062200200-b62dv32025oa04gc0pmjh505jov3onpo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
